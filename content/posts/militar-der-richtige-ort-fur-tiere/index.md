@@ -4,6 +4,7 @@ date = "2024-04-29"
 draft = false
 pinned = false
 tags = []
+image = "img_4375-2-2-2-2.jpeg"
 description = ""
 footnotes = "Quellen:\\\n<https://de.wikipedia.org/wiki/Pferde_der_Wehrmacht#:~:text=Insgesamt%20wurden%20auf%20deutscher%20Seite,der%20Pferde%20des%20Heeres%20verendeten>.\n\n[https://de.wikipedia.org/wiki/Tiere_im_Militär](https://de.wikipedia.org/wiki/Tiere_im_Milit%C3%A4r)\n\n<https://de.wikipedia.org/wiki/Diensthund#:~:text=In%20Deutschland%20wurden%20Diensthunde%20erst,1.%20Oktober%201901%20stattgefunden%20haben>.\n\n<https://www.tagesspiegel.de/gesellschaft/panorama/wie-tiere-im-militar-eingesetzt-werden-5695306.html>"
 +++

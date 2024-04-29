@@ -3,14 +3,16 @@ title = "Militär - der richtige Ort für Tiere?"
 date = "2024-04-29"
 draft = false
 pinned = false
-description = "blabla"
+description = ""
 footnotes = "Quellen:\\\n<https://de.wikipedia.org/wiki/Pferde_der_Wehrmacht#:~:text=Insgesamt%20wurden%20auf%20deutscher%20Seite,der%20Pferde%20des%20Heeres%20verendeten>.\n\n[https://de.wikipedia.org/wiki/Tiere_im_Militär](https://de.wikipedia.org/wiki/Tiere_im_Milit%C3%A4r)\n\n<https://de.wikipedia.org/wiki/Diensthund#:~:text=In%20Deutschland%20wurden%20Diensthunde%20erst,1.%20Oktober%201901%20stattgefunden%20haben>.\n\n<https://www.tagesspiegel.de/gesellschaft/panorama/wie-tiere-im-militar-eingesetzt-werden-5695306.html>"
 +++
+
+
 Für viele Menschen ist die Information, dass es Tiere im Militär gibt, eine Neuigkeit. 
 
 Die häufig vergessene Arbeit der Militärtiere wird oft unterschätzt, oder vergleicht mit der Arbeit von Polizeitieren. Auch gibt es viele kritische Sichtweisen auf die Haltung und das Training der Hunde und Pferde. Doch wie sieht diese Ausbildung genau aus und welche Punkte daran werden am stärksten kritisiert? Ein kurzer Einblick  in das Kompetenzzentrum Veterinärdienst und Armeetiere in der Kaserne Sand und in den Tierschutz Bern gibt uns Auskunft.  
 
-Um punkt 8 Uhr trifft das Auto auf dem Parkplatz hinter dem Restaurant Bären in Schönbühl ein. Es sind bereits Hundegebelle und Rufe zu hören, als Sascha Goetz auf uns zukommt und uns begrüsst. Dort treffen wir auf Rekruten, welche gerade ihre Autos mit Gepäck und Hunden beladen, um zum Training an der Aare zu fahren, wo sich ebenfalls ein Trainingsplatz befindet. 
+Um punkt 8 Uhr trifft das Auto auf dem Parkplatz hinter dem Restaurant Bären in Schönbühl ein. Es sind bereits Hundegebelle und Rufe zu hören, als Sascha Goetschi auf uns zukommt und uns begrüsst. Dort treffen wir auf Rekruten, welche gerade ihre Autos mit Gepäck und Hunden beladen, um zum Training an der Aare zu fahren, wo sich ebenfalls ein Trainingsplatz befindet. 
 
 Das Areal ist in verschiedene Teile eingeteilt, von Reitplatz, zu Hundegehege und Reitställen, bis hin zu einer riesigen Rasenfläche und einem Hundetrainingplatz.  
 
@@ -30,40 +32,19 @@ Heutzutage sind Pferde in der Schweiz nicht mehr als Armeetiere von Nutzen, sond
 
 Die genutzten Pferde, oder auch Maultiere, gehören nicht dem Militär selbst, sondern werden von Reitställen in Bern, wie zum Beispiel das Nationale Pferdezentrum Bern (NPZ) für eine bestimmte Zeit in die Kaserne Sand übergeben. Nach einigen Einsätzen und Trainings werden sie zurückgebracht, wo sie oft als Reit- oder Voltigepferde gebraucht werden.  
 
- 
-
 Diensthunde hingegen wurden erst etwa ab 1900 gebraucht, sind jedoch seitdem die am weitesten verbreiteten Tierarten, welche im Militär gebraucht werden. Sie werden als Armeetiere eingesetzt und im Gegensatz zu den Vierhufern gehören sie dem Militär. Sie werden täglich mehrere Stunden trainiert in verschiedenen Arten. Ein Rekrut (Soldat im ersten Jahr) entscheidet sich, ob er oder sie entweder im Rettungsbereich oder im Schutzbereich tätig sein möchte. Die Rekrutenhunde können beides, werden dann jedoch nur für den gewählten Bereich des Rekruten gebraucht.  
 
 „Bei einem Hund für Rekruten hat man den Schutzhundebereich und den Rettungshundebereich, bei Profis kann man noch mehr trainieren, wie zum Beispiel Sprengstoffspürhunde und Rauschmittelspürhunde.» Dieser Hund wird dann jedoch selbst vom Hundeführer gekauft und trainiert und nicht vom Militär zur Verfügung gestellt. Er berichtet auch über ein neues Projekt, welches bisher noch nicht eingeführt wurde, nämlich die Bettwanzenspürhunde. 
 
- 
-
 Währen er uns über die Nutzung der Diensthunde erzählt, laufen wir über das Areal, Richtung Trainingsgelände. Als wir beim Rasen des Bereichs ankommen, ist gerade eine Frau mit ihrem Hund dabei, eine Strecke zu laufen und der Hundetrainer, der sie dabei beobachtet und korrigiert. Sascha macht uns aufmerksam darüber, was der Hund und die Hundeführerin falsch oder gut macht. „Die Hunde bauen über ihre ersten Jahre im Militär so eine starke Bindung zu ihrem Hundetrainer auf, dass er sie dann, wenn sie bei ihrem Rekruten aufgenommen werden, nur mit einer Peitschenlänge Abstand korrigieren kann, weil die Hunde sonst abgelenkt werden.“ Dies sei auch ein umstrittener Kritikpunkt, da viele Leute das Gefühl hätten, sie würden die Hunde bestrafen oder sogar schlagen, was aber schlichtweg nicht stimmt. 
-
- 
 
 Auch sonst werden die Hunde sehr artgerecht gehalten und genutzt, was auch die Pensionierung betrifft. Diensthunde werden durchschnittlich bis zum 11. Lebensjahr zum Dienst eingesetzt, danach werden sie pensioniert, es gibt jedoch auch Hunde, die mit 4-5 Jahren eine Verletzung haben und die schon zu alt sind, bis sie vollständig geheilt ist, somit kommen sie früher in den Ruhestand. „Das Schlimmste, was man tun kann, ist ein ehemaliger Diensthund zu haben, mit dem man nichts macht und welcher einfach nur zuhause rumsitzt, da er verkümmert und ihm langweilig wird und einem fast schon das Haus auseinandernimmt.“ erzählt er uns. Man kann sich den Hund wie ein Spitzensportler vorstellen, da man selbst einen pensionierten Diensthund immer noch genau gleich körperlich wie auch geistig trainieren muss. Wenn für jemand dies aber nicht möglich ist, kann man den Hund abgeben, damit jemand auf ihn aufpasst, der wirklich genug Platz und Zeit hat, um all dies zu tun. Das Einzige, was ein bisschen vernachlässigt werden darf/soll ist zum Beispiel die Beissarbeit, da dies für ältere Hunde nicht gut für den Kiefer und Rücken sein kann.  
 
- 
-
 Das Wohl der Hunde steht also ganz im Mittelpunkt, was auch aufgrund des Tierschutzes gar nicht anders sein dürfte. „Wir arbeiten ganz eng mit dem Tierschutz zusammen, was wir ja auch müssen, weil diese Kaserne hier ein öffentliches Gelände ist und jeder ‚sehen kann‘ was mit den Tieren geschieht“ sagt er uns, währenddessen er uns die Innengehege der Militärhunde zeigt. Sie haben einen Aussen- und einen Innenbereich, welche beide laut Sascha grösser als das Mindeste seien, obwohl sie ziemlich spärlich eingerichtet wirken. 
 
- 
-
-Text von 2. Interview: 
-
- 
-
-Sicht des Tierschutzes: 
-
-Es gibt an der Arbeit der Tiere im Militär aber auch viele Kritikpunkte, wie zum Beispiel vom Tierschutz, der erklärt, dass es schon längstens nicht mehr zeitgemäss ist, Tiere wie Objekte zu behandeln und nach Gutdünken und den Vorstellungen des Menschen zu formen, zu züchten und zu behandeln. «Tiere sind fühlende Lebewesen mit eigenen Bedürfnissen, das muss respektiert werden.», so Alexandra Spring vom Dachverband der Berner Tierschutzorganisationen. Die Nutzung von Tieren sollte ihres Erachtens in der heutigen Zeit generell hinterfragt werden, besonders im Sinne von Zucht, Haltung und Schlachtung zur Nahrungsmittelgewinnung, zur Herstellung von Bekleidung, Accessoires und Ähnlichem, lassen sich die allermeisten Einsätze von Tieren nicht mehr rechtfertigen. Jedoch betrifft dies auch den Umgang mit Tieren zum Zeitvertreib und zur Unterhaltung des Menschen, wie etwa viele Sportarten mit Tieren, Zirkus, Zoo und so weiter.  
-
-Das ist, da in den meisten dieser Fälle ein Hund oder auch ein Pferd nicht einfach Tier sein kann und den Tag so verbringen darf, wie es ihm lieb ist.  
-
- 
+Sicht des Tierschutzes: \
+Es gibt an der Arbeit der Tiere im Militär aber auch viele Kritikpunkte, wie zum Beispiel vom Tierschutz, der erklärt, dass es schon längstens nicht mehr zeitgemäss ist, Tiere wie Objekte zu behandeln und nach Gutdünken und den Vorstellungen des Menschen zu formen, zu züchten und zu behandeln. «Tiere sind fühlende Lebewesen mit eigenen Bedürfnissen, das muss respektiert werden.», so Alexandra Spring vom Dachverband der Berner Tierschutzorganisationen. Die Nutzung von Tieren sollte ihres Erachtens in der heutigen Zeit generell hinterfragt werden, besonders im Sinne von Zucht, Haltung und Schlachtung zur Nahrungsmittelgewinnung, zur Herstellung von Bekleidung, Accessoires und Ähnlichem, lassen sich die allermeisten Einsätze von Tieren nicht mehr rechtfertigen. Jedoch betrifft dies auch den Umgang mit Tieren zum Zeitvertreib und zur Unterhaltung des Menschen, wie etwa viele Sportarten mit Tieren, Zirkus, Zoo und so weiter. Das ist, da in den meisten dieser Fälle ein Hund oder auch ein Pferd nicht einfach Tier sein kann und den Tag so verbringen darf, wie es ihm lieb ist.  
 
 Wird ein Hund dazu ausgebildet, Drogen, Waffen oder Menschen zu suchen, kann das eine gute Beschäftigung und Auslastung für den Hund darstellen. Dies sei jedoch nur, solange er tierschutzkonform und gewaltfrei ausgebildet und behandelt und nur dann eingesetzt wird, wenn seine physische und psychische Verfassung dies zulässt. Wenn nötig, sind dem Tier Pausen zu gewähren und es ist darauf zu achten, dass Freizeit für das Tier nicht zu kurz kommt. So wie die Tiere heutzutage im Militär verwendet werden, sei es ok, solange sie tierschutzkonform ausgelastet werden, das heisst, das Misshandeln, Vernachlässigen oder unnötige Überanstrengen von Tieren ist verboten. Glücklicherweise werden diese Verbote in der Kaserne in Sand gut beachtet.  
-
- 
 
 «In der heutigen Zeit gibt es fast für alles Alternativen», sagt Alexandra Spring. Dies bedeutet, dass es eventuell in der Zukunft fast keine oder keine Tiere im Militär mehr braucht, da man für diese Alternativen finden wird. Für den Hund, welcher in den Bereichen Sprengstoff-, Drogenspürdienst oder Personensuche, sehr wertvolle Arbeit leistet, wird es wahrscheinlich mal Alternativen geben wie zum Beispiel durch Computer oder Roboter, besonders da wir heutzutage eine so moderne Wissenschaft haben. Bei Pferden sieht es ein wenig anders aus, da in unwegsamen Geländen ein Pferd für Transportaufgaben durchaus praktischer sein kann als motorisierte Fahrzeuge, jedoch sollen auf ‘unnötige Aktionen’, wie Vorführungen mit Pferden verzichtet und den Gebrauch von Pferden im Militär reduziert werden.

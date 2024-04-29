@@ -10,7 +10,7 @@ footnotes = "Quellen:\\\n<https://de.wikipedia.org/wiki/Pferde_der_Wehrmacht#:~:
 +++
 ### **Tiere im Militär: Ihre Arbeit und Ausbildung**
 
-Für viele Menschen ist die Information, dass es Tiere im Militär gibt, eine Neuigkeit. Die häufig vergessene Arbeit der Militärtiere wird oft unterschätzt, oder vergleicht mit der Arbeit von Polizeitieren. Auch gibt es viele kritische Sichtweisen auf die Haltung und das Training der Hunde und Pferde. Doch wie sieht diese Ausbildung genau aus und welche Punkte daran werden am stärksten kritisiert? Ein kurzer Einblick  in das Kompetenzzentrum Veterinärdienst und Armeetiere in der Kaserne Sand und in den Tierschutz Bern gibt uns Auskunft.  
+Für viele Menschen ist die Information, dass es Tiere im Militär gibt, eine Neuigkeit. Die häufig vergessene Arbeit der Militärtiere wird oft unterschätzt, oder verglichen mit der Arbeit von Polizeitieren. Auch gibt es viele kritische Sichtweisen auf die Haltung und das Training der Hunde und Pferde. Doch wie sieht diese Ausbildung genau aus und welche Punkte daran werden am stärksten kritisiert? Ein kurzer Einblick  in das Kompetenzzentrum Veterinärdienst und Armeetiere in der Kaserne Sand und in den Tierschutz Bern gibt uns Auskunft.  
 
 Um punkt 8 Uhr trifft das Auto auf dem Parkplatz hinter dem Restaurant Bären in Schönbühl ein. Es sind bereits Hundegebelle und Rufe zu hören, als Sascha Goetschi auf uns zukommt und uns begrüsst. Dort treffen wir auf Rekruten, welche gerade ihre Autos mit Gepäck und Hunden beladen, um zum Training an der Aare zu fahren, wo sich ebenfalls ein Trainingsplatz befindet. 
 

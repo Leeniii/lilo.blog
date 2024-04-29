@@ -4,7 +4,7 @@ date = "2024-04-29"
 draft = false
 pinned = false
 tags = []
-image = "img_4375-2-2-2-2.jpeg"
+image = ""
 description = " "
 footnotes = "Quellen:\\\n<https://de.wikipedia.org/wiki/Pferde_der_Wehrmacht#:~:text=Insgesamt%20wurden%20auf%20deutscher%20Seite,der%20Pferde%20des%20Heeres%20verendeten>.\n\n[https://de.wikipedia.org/wiki/Tiere_im_Militär](https://de.wikipedia.org/wiki/Tiere_im_Milit%C3%A4r)\n\n<https://de.wikipedia.org/wiki/Diensthund#:~:text=In%20Deutschland%20wurden%20Diensthunde%20erst,1.%20Oktober%201901%20stattgefunden%20haben>.\n\n<https://www.tagesspiegel.de/gesellschaft/panorama/wie-tiere-im-militar-eingesetzt-werden-5695306.html>"
 +++
@@ -13,6 +13,8 @@ footnotes = "Quellen:\\\n<https://de.wikipedia.org/wiki/Pferde_der_Wehrmacht#:~:
 Für viele Menschen ist die Information, dass es Tiere im Militär gibt, eine Neuigkeit. Die häufig vergessene Arbeit der Militärtiere wird oft unterschätzt, oder vergleicht mit der Arbeit von Polizeitieren. Auch gibt es viele kritische Sichtweisen auf die Haltung und das Training der Hunde und Pferde. Doch wie sieht diese Ausbildung genau aus und welche Punkte daran werden am stärksten kritisiert? Ein kurzer Einblick  in das Kompetenzzentrum Veterinärdienst und Armeetiere in der Kaserne Sand und in den Tierschutz Bern gibt uns Auskunft.  
 
 Um punkt 8 Uhr trifft das Auto auf dem Parkplatz hinter dem Restaurant Bären in Schönbühl ein. Es sind bereits Hundegebelle und Rufe zu hören, als Sascha Goetschi auf uns zukommt und uns begrüsst. Dort treffen wir auf Rekruten, welche gerade ihre Autos mit Gepäck und Hunden beladen, um zum Training an der Aare zu fahren, wo sich ebenfalls ein Trainingsplatz befindet. 
+
+![Soldat vor dem geladenen Auto Bildquelle: Eigene Aufnahme](img_4375-2-2-2-2.jpeg)
 
 **Nutzung** \
 Das Areal ist in verschiedene Teile eingeteilt, von Reitplatz, zu Hundegehege und Reitställen, bis hin zu einer riesigen Rasenfläche und einem Hundetrainingplatz. Die Kasernen sind schon seit Tiere im Militär genutzt werden sehr ähnlich aufgebaut. Das Nutzen von Tieren für den eigenen Schutz oder für das Erleichtern von Arbeit war bei Menschen schon in der Antike beliebt, wo Feldherren Elefanten wie Panzer einsetzten. Danach im Mittelalter wurden Bienen auf die gegnerische Armee losgelassen und später wurden Kameras an Tauben gebunden, sodass man die feindlichen Stellungen herausfinden konnten. Im Verlauf des Zweiten Weltkriegs führten die USA sogar Versuche mit sogenannten „bat-bombs“ durch. Diese bestanden darin, Fledermäuse mit Sprengstoff zu versehen und in feindlichen Städten zur Explosion zu bringen, also quasi tierische Selbstmordattentäter. Vor dem ersten Weltkrieg brauchte man immer mehr Pferde für die Armee. Im zweiten Weltkrieg wurden allein für die deutsche Seite 2 800 000 Pferde gebraucht, von denen nur rund 40% überlebten.  
@@ -27,8 +29,6 @@ Das Militär arbeitet sehr gerne mit dem belgischen Schäferhund, der Spalte Mal
 
 **Training der Tiere im Militär**\
 Heutzutage sind Pferde in der Schweiz nicht mehr als Armeetiere von Nutzen, sondern werden nur noch aufgrund taktischer und meteorologischer Gründe eingesetzt. „Wenn ein Sturm war und in einem Wald Bäume umgefallen sind, macht es keinen Sinn, mit einem Bagger diese dort rauszuschleppen, da das Fahrzeug den Boden einfach kaputtmachen würde. Dort zum Beispiel werden dann die Pferde eingesetzt, da diese ganz einfach hereinlaufen und einen Baumstamm herausziehen können.“ Erzählt Sascha uns, als wir ihn nach den Einsätzen der Pferde fragen. Ausserdem werden sie auch als Transporttiere gebraucht und man arbeite momentan an Patrouillenpferden, so wie man es von der Polizei kennt. Die genutzten Pferde, oder auch Maultiere, gehören nicht dem Militär selbst, sondern werden von Reitställen in Bern, wie zum Beispiel das Nationale Pferdezentrum Bern (NPZ) für eine bestimmte Zeit in die Kaserne Sand übergeben. Nach einigen Einsätzen und Trainings werden sie zurückgebracht, wo sie oft als Reit- oder Voltigepferde gebraucht werden.  
-
-![](img_4375-2-2-2-2.jpeg)
 
 Diensthunde hingegen wurden erst etwa ab 1900 gebraucht, sind jedoch seitdem die am weitesten verbreiteten Tierarten, welche im Militär gebraucht werden. Sie werden als Armeetiere eingesetzt und im Gegensatz zu den Vierhufern gehören sie dem Militär. Sie werden täglich mehrere Stunden trainiert in verschiedenen Arten. Ein Rekrut (Soldat im ersten Jahr) entscheidet sich, ob er oder sie entweder im Rettungsbereich oder im Schutzbereich tätig sein möchte. Die Rekrutenhunde können beides, werden dann jedoch nur für den gewählten Bereich des Rekruten gebraucht. „Bei einem Hund für Rekruten hat man den Schutzhundebereich und den Rettungshundebereich, bei Profis kann man noch mehr trainieren, wie zum Beispiel Sprengstoffspürhunde und Rauschmittelspürhunde.» Dieser Hund wird dann jedoch selbst vom Hundeführer gekauft und trainiert und nicht vom Militär zur Verfügung gestellt. Er berichtet auch über ein neues Projekt, welches bisher noch nicht eingeführt wurde, nämlich die Bettwanzenspürhunde. 
 

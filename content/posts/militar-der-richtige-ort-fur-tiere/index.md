@@ -23,7 +23,7 @@ Das Areal ist in verschiedene Teile eingeteilt, ein Reitplatz, ein Hundegehege u
 
 {{<box>}}
 
-Welche Hunde- und Pferderassen werden meistens für das Militär verwendet? 
+Welche Hunde- und Pferderassen werden meistens für das Militär verwendet?
 
 Das Militär arbeitet sehr gerne mit dem Malinois, einer Unterrasse des belgischen Schäfer, welche ca. 95% der Hunde im Militär ausmachen. Es gibt jedoch auch andere Hunderassen, wie zum Beispiel der Labrador oder Rottweiler, die jedoch selten eingesetzt werden. Labradore werden eher im Rettungsbereich genutzt, während Rottweiler meistens als Schutzhunde dienen. Tervueren werden teilweise auch eingesetzt, da diese sehr gute Diensthunde sind, ähnlich wie der deutsche Schäferhund, der hingegen nicht immer leistungsfähig ist und öfter an einer Hüftdysplasie leidet, was seine Einsatzmöglichkeit einschränkt.  \
 Militärisch eingesetzte Pferderassen müssen robust, vielseitig und gut trainierbar sein. Deshalb werden oft Warmblüter eingesetzt, die für ihre Vielfältigkeit bekannt sind. Sie eignen sich als Dienstpferde, da sie sowohl fürs Springen als auch für Dressur geeignet sind. Kaltblüter und Maultiere hingegen, sind sehr nützlich für Transport- und Schleppdienste. 
